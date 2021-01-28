@@ -1,0 +1,2 @@
+# Golitaire
+Privacy Policy
